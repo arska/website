@@ -14,7 +14,7 @@ gem 'middleman', '>= 4.3.8'
 gem 'middleman-livereload', '>= 3.4.6'
 
 # CSS Plugins
-gem 'sass-rails', '~> 5.0.5'
+gem 'sass-rails', '~> 5.0.8'
 gem 'susy'
 gem 'breakpoint', '~> 2.5'
 gem 'middleman-autoprefixer', '>= 2.7.0'
